@@ -27,7 +27,7 @@ with col1:
 
     st.markdown("""
         <a href="https://www.justdial.com/Nashik/Bhairavnath-Cloth-Stores-Chas/0253PX253-X253-180321070918-X7J3_BZDET" target="_blank">
-            <button style="background-color:red; border-radius:10px; padding:5px; border:black;">
+            <button style="background-color:red; border-radius:10px; padding:10px; border:black;">
                ℹ️ Go to Just Dial
             </button>
         </a>
